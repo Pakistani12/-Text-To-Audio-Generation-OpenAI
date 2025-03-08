@@ -3,4 +3,4 @@ This project demonstrates how to use OpenAI's GPT-4o model to generate both text
 ## **Question for testing**
 - Is a golden retriever a good family dog?
 ## **Result**
-Listen to the audio
+[Listen to the audio](https://github.com/Pakistani12/-Text-To-Audio-Generation-OpenAI/blob/main/dog.wav)
